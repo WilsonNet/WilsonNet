@@ -29,7 +29,7 @@ This is actually one of the first time that I've ever coded in my life. Before t
 
 ## Hobbies outside coding
 
-**Learning Japanese**
-**Playing games (even though I don't play anymore)**
-**Practicing my musical instruments**
+- Learning Japanese
+- Playing games (even though I don't play anymore)
+- Practicing my musical instruments
 
