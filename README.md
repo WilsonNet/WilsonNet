@@ -26,6 +26,14 @@ https://github.com/WilsonNet/DoctorDolphin
 This is actually one of the first time that I've ever coded in my life. Before this the only contact with JavaScript that I prevoulsy had were through exercises in the "Eloquent Javascript" book.
 
 
+## Studying Right Now
+- React
+- React Native
+- TypeScript
+- Node/Express
+- SOLID
+- Testing
+- Functional Programming (the basics of Haskell but I intend to move to Elixir later on)
 
 ## Hobbies outside coding
 
