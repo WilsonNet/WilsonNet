@@ -11,6 +11,7 @@ Unfortunately, my professional work is kept on a private Gitlab server. It's not
 ### Public websites that I coded the front-end from scratch and are still in production.
 - [Canova do Brasil](https://canovadobrasil.com.br/)
 - [On The List](https://onthelist.com.br/)
+- [Smart One](http://www.smart01.com.br)
 
 ### A few public websites that I've maintained
 - [Caldo Bom](https://caldobom.com.br/)
