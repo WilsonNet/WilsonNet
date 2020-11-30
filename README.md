@@ -4,9 +4,20 @@ Hello, I'm Wilson, I will try to talk about myself here and guide you through th
 
 ## Professional work
 
-I have 2 years of experience as a Front-end developer and have done projects for companies that have a very large reach inside Brazil, like Britania, Philco, Positivo, Furukawa and others. 
+I have 2 years of experience as a front-end developer working for Nerdweb, and have done b2b projects for companies that have a very large reach inside Brazil, like Britania, Philco, Positivo, Furukawa and others. 
 
-Unfortunately my professional work is kept in a private Gitlab server. It's not avaiable to showcase here.
+Unfortunately my professional work is kept in a private Gitlab server. It's not avaiable to showcase here, but some websites are public and still in production, so you can take a look.
+
+### Sites that I coded the front-end from scratch and are still in production.
+
+- [Canova do Brasil](https://canovadobrasil.com.br/)
+- [On The List](https://onthelist.com.br/)
+
+### A few sites that I've mantained
+- [Caldo Bom](https://caldobom.com.br/)
+- [Goodies Bakery](https://www.goodiesbakery.com.br/)
+- [Vapza](https://www.vapza.com.br/)
+- [Dia dos Pais Britânia](https://www.diadospaisbritania.com.br/)
 
 ## About my Github
 Most of stuff here are from tutorials that I follow along, there is very little projects that was made by me from scratch.
