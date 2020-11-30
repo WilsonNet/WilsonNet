@@ -4,22 +4,22 @@ Hello, I'm Wilson, I will try to talk about myself here and guide you through th
 
 ## Professional work
 
-I have 2 years of experience as a front-end developer working for Nerdweb, in that timeframe I have done b2b projects for companies that have a very large reach inside Brazil, like Britânia, Philco, Positivo, Furukawa and others. 
+I have 2 years of experience as a front-end developer working for Nerdweb, in that timeframe I have done b2b projects for companies that have a very large reach inside Brazil, like Britânia, Philco, Positivo, Furukawa, and others. 
 
-Unfortunately my professional work is kept in a private Gitlab server. It's not avaiable to showcase here, but some websites are public and still in production, so you can take a look.
+Unfortunately, my professional work is kept on a private Gitlab server. It's not available to showcase here, but some websites are public and still in production, so you can take a look.
 
 ### Public websites that I coded the front-end from scratch and are still in production.
 - [Canova do Brasil](https://canovadobrasil.com.br/)
 - [On The List](https://onthelist.com.br/)
 
-### A few public websites that I've mantained
+### A few public websites that I've maintained
 - [Caldo Bom](https://caldobom.com.br/)
 - [Goodies Bakery](https://www.goodiesbakery.com.br/)
 - [Vapza](https://www.vapza.com.br/)
 - [Dia dos Pais Britânia](https://www.diadospaisbritania.com.br/)
 
 ## About my Github
-Most of stuff here are from tutorials that I follow along, there are very little projects that was made by me from scratch.
+Most of the stuff here is from tutorials that I follow along, there are very few projects that were made by me from scratch.
 
 Some of them are:
 
@@ -33,7 +33,7 @@ A small landing page that was made for Rocketseat's "Expansion Week" event.
 
 https://github.com/WilsonNet/DoctorDolphin
 
-This is actually one of the first time that I've ever coded in my life. Before this the only contact with JavaScript that I prevoulsy had were through exercises in the "Eloquent Javascript" book.
+This is actually one of the first times that I've ever coded in my life. Before this, the only contact with JavaScript that I previously had was through exercises in the "Eloquent Javascript" book.
 
 
 ## Studying Right Now
