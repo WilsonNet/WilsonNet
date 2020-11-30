@@ -6,7 +6,7 @@ Hello, I'm Wilson, I will try to talk about myself here and guide you through th
 
 I have 2 years of experience as a front-end developer working for Nerdweb, in that timeframe I have done b2b projects for companies that have a very large reach inside Brazil, like Britânia, Philco, Positivo, Furukawa, and others. 
 
-Unfortunately, a large part of my professional work is NDA and kept on a private Gitlab server. It's not available to showcase here, but some websites are public and still in production, so you can take a look.
+Unfortunately, my professional work is not kept on GitHub and a large part of it is private. It's not available to showcase here, but some websites are public and still in production, so you can take a look.
 
 ### Public websites that I coded the front-end from scratch and are still in production.
 - [Canova do Brasil](https://canovadobrasil.com.br/)
