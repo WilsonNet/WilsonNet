@@ -4,7 +4,7 @@ Hello, I'm Wilson, I will try to talk about myself here and guide you through th
 
 ## Professional work
 
-I have 2 years of experience as a front-end developer working for Nerdweb, and have done b2b projects for companies that have a very large reach inside Brazil, like Britania, Philco, Positivo, Furukawa and others. 
+I have 2 years of experience as a front-end developer working for Nerdweb, and have done b2b projects for companies that have a very large reach inside Brazil, like Britânia, Philco, Positivo, Furukawa and others. 
 
 Unfortunately my professional work is kept in a private Gitlab server. It's not avaiable to showcase here, but some websites are public and still in production, so you can take a look.
 
