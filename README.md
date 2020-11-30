@@ -8,12 +8,11 @@ I have 2 years of experience as a front-end developer working for Nerdweb, and h
 
 Unfortunately my professional work is kept in a private Gitlab server. It's not avaiable to showcase here, but some websites are public and still in production, so you can take a look.
 
-### Sites that I coded the front-end from scratch and are still in production.
-
+### Public websites that I coded the front-end from scratch and are still in production.
 - [Canova do Brasil](https://canovadobrasil.com.br/)
 - [On The List](https://onthelist.com.br/)
 
-### A few sites that I've mantained
+### A few public websites that I've mantained
 - [Caldo Bom](https://caldobom.com.br/)
 - [Goodies Bakery](https://www.goodiesbakery.com.br/)
 - [Vapza](https://www.vapza.com.br/)
