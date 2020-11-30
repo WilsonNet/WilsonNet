@@ -43,7 +43,7 @@ This is actually one of the first time that I've ever coded in my life. Before t
 - Node/Express
 - SOLID
 - Testing
-- Functional Programming (the basics of Haskell but I intend to move to Elixir later on)
+- Functional Programming (the basics of Haskell, but I intend to move to Elixir later on)
 
 ## Hobbies outside coding
 
