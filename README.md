@@ -19,7 +19,7 @@ Unfortunately my professional work is kept in a private Gitlab server. It's not 
 - [Dia dos Pais Britânia](https://www.diadospaisbritania.com.br/)
 
 ## About my Github
-Most of stuff here are from tutorials that I follow along, there is very little projects that was made by me from scratch.
+Most of stuff here are from tutorials that I follow along, there are very little projects that was made by me from scratch.
 
 Some of them are:
 
