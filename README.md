@@ -9,7 +9,6 @@ I have 2 years of experience as a front-end developer working for Nerdweb, in th
 Unfortunately, my professional work is not kept on GitHub and a large part of it is private. It's not available to showcase here, but some websites are public and still in production, so you can take a look.
 
 ### Public websites that I coded the front-end from scratch and are still in production.
-- [Canova do Brasil](https://canovadobrasil.com.br/)
 - [On The List](https://onthelist.com.br/)
 
 ### A few public websites that I've maintained
