@@ -1,21 +1,6 @@
 # Welcome to my Github Profile
 
-Hello, I'm Wilson, I will try to talk about myself here and guide you through the mess that is my profile.
-
-## Professional work
-
-I have 2 years of experience as a front-end developer working for Nerdweb, in that timeframe I have done b2b projects for companies that have a very large reach inside Brazil, like Britânia, Philco, Positivo, Furukawa, and others. 
-
-Unfortunately, my professional work is not kept on GitHub and a large part of it is private. It's not available to showcase here, but some websites are public and still in production, so you can take a look.
-
-### Public websites that I coded the front-end from scratch and are still in production.
-- [On The List](https://onthelist.com.br/)
-
-### A few public websites that I've maintained
-- [Caldo Bom](https://caldobom.com.br/)
-- [Goodies Bakery](https://www.goodiesbakery.com.br/)
-- [Vapza](https://www.vapza.com.br/)
-- [Dia dos Pais Britânia](https://www.diadospaisbritania.com.br/)
+Hello, I'm Wilson, hope you enjoy your stay!
 
 ## About my Github
 Most of the stuff here is from tutorials that I follow along, there are very few projects that were made by me from scratch.
@@ -36,16 +21,13 @@ This is actually one of the first times that I've ever coded in my life. Before 
 
 
 ## Studying Right Now
-- React
-- React Native
 - TypeScript
-- Node/Express
-- SOLID
-- Testing
+- Linux 
+- Golang
 
 ## Hobbies outside coding
 
 - Learning Japanese
-- Playing games (even though I don't play anymore)
+- Playing games (even though I don't play that much anymore)
 - Practicing my musical instruments
 
