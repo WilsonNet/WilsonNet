@@ -7,15 +7,13 @@ Most of the stuff here is from tutorials that I follow along, there are very few
 
 Some of them are:
 
-https://github.com/WilsonNet/vento-aureo
+https://github.com/WilsonNet/vento-aureo - An .io game that is currently under development. It's made using the Phaser 3 engine and Typescript
 
-A .io game that is currently under development. It's made using the Phaser 3 engine and Typescript.
+https://github.com/WilsonNet/lp-softskills - A small landing page that was made for Rocketseat's "Expansion Week" event.
 
-https://github.com/WilsonNet/lp-softskills
+https://github.com/WilsonNet/DoctorDolphin - The first time I coded outside of programming exercises, it was a JavaScript game for Global Game Jam Curitiba, we were a 6 person team that had 48 hours to spit out a game.
 
-A small landing page that was made for Rocketseat's "Expansion Week" event.
-
-https://github.com/WilsonNet/DoctorDolphin
+https://github.com/WilsonNet/nvimrc - You can also get my Neovim config here
 
 This is actually one of the first times that I've ever coded in my life. Before this, the only contact with JavaScript that I previously had was through exercises in the "Eloquent Javascript" book.
 
