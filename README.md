@@ -8,6 +8,8 @@ My configs:
 
 https://github.com/WilsonNet/nvimrc - Neovim
 
+https://github.com/WilsonNet/.dotfiles - My dotfiles
+
 Most of the stuff here is from tutorials that I follow along, there are very few projects that were made by me from scratch.
 
 Some of them are:
